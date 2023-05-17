@@ -1,0 +1,20 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("https://img.meta.com.vn/Data/image/2022/01/13/anh-dep-thien-nhien-3.jpg");
+  height: 500px;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://i.pinimg.com/originals/91/cb/54/91cb545176720cc851687a7263984600.jpg);
+  height: 500px;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://live.staticflickr.com/4402/36424290523_a73528b479_b.jpg);
+  height: 500px;
+}
